@@ -635,7 +635,7 @@ const podcastSection = {
   // Please Provide with Your Podcast embeded Link
   podcast: [
     // "https://anchor.fm/codevcast/embed/episodes/DevStory---Hasnain-Arshad-from-Islamabad--Pakistan-e9givv/a-a15itvo"
-    "https://www.youtube.com/embed/F6rKyxQm7o8" 
+    "https://www.youtube.com/embed/F6rKyxQm7o8"
   ],
   display: true // Set false to hide this section, defaults to true
 };
