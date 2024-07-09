@@ -23,7 +23,7 @@ const greeting = {
   username: "husnainarshad97",
   title: "Hey, I'm Hasnain",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web Applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
+    "A passionate Software Developer🚀 and Graphic Designer🚀 having an experience of building Web Applications and Graphic Designs"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1Y2FlaVHrUetz6bwNx78RqzhAP6TThj5A/view?usp=sharing", // Set to empty to hide the button
@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/husnainarshad97",
-  linkedin: "https://www.linkedin.com/in/husnainarshad97/",
+  linkedin: "https://www.linkedin.com/in/hasnainarshad/",
   gmail: "husnainarshad97@gmail.com",
   // gitlab: "https://gitlab.com/husnainarshad97",
   facebook: "https://www.facebook.com/husnainmairajarshad",
@@ -280,11 +280,31 @@ const techStack = {
     },
     {
       Stack: "Backend development",
-      progressPercentage: "96%"
+      progressPercentage: "85%"
     },
     {
       Stack: "Programming",
       progressPercentage: "100%"
+    },
+    {
+      Stack: "Graphic Designing",
+      progressPercentage: "100%"
+    },
+    {
+      Stack: "Video Editing",
+      progressPercentage: "85%"
+    },
+    {
+      Stack: "3D Modeling",
+      progressPercentage: "70%"
+    },
+    {
+      Stack: "Animations",
+      progressPercentage: "70%"
+    },
+    {
+      Stack: "Game Development",
+      progressPercentage: "75%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
