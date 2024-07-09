@@ -391,7 +391,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Impressive Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH.",
   projects: [
     {
       image: require("./assets/images/Thugofcomsats_logo.png"),
@@ -475,7 +475,7 @@ const bigProjects = {
     {
       image: require("./assets/images/urpixpays_logo.png"),
       projectName: "UrPixPays",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "It was a website, where users can upload their best images, and other users can download and use that images for their use.",
       footerLink: [
         {
           name: "Visit Website",
