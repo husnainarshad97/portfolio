@@ -470,85 +470,148 @@ const achievementSection = {
     {
       title: "INTRODUCTION TO AUGMENTED REALITY AND ARCORE",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "I know the basics of augmented reality (AR) and how to create AR experiences using ARCore, a tool from Google.I learned what AR is, how it works, and where it can be used. I also use ARCore to practice important skills like motion tracking, understanding the environment, and estimating light. I can make simple AR applications and understand how to create exciting AR experiences.",
       image: require("./assets/images/googlearvr_logo.jpg"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1RYJCg-otW9vOZODmCpxam5T1rX_YweoZ/view?usp=sharing"
         },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
+        // {
+        //   name: "Award Letter",
+        //   url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+        // },
+        // {
+        //   name: "Google Code-in Blog",
+        //   url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+        // }
       ]
     },
     {
       title: "INTRODUCTION TO USER EXPERIENCE DESIGN",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "Introduction to User Experience Design is a beginner-level course that teaches the fundamentals of creating user-friendly digital products. Students learn how to design websites and apps that are easy and enjoyable for people to use, focusing on research, planning, and testing to meet user needs effectively",
       image: require("./assets/images/gtuniversity_logo.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1IfpVzWCCWv6t_7UmiPeyVH8dgD5PBfyR/view?usp=sharing"
         },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
+        // {
+        //   name: "Award Letter",
+        //   url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+        // },
+        // {
+        //   name: "Google Code-in Blog",
+        //   url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+        // }
       ]
     },
     {
       title: "MACHINE LEARNING BASICS",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "Machine Learning Basics is a beginner-level course where you learn how computers can learn from data. It teaches you how machines use patterns in data to make predictions and decisions automatically. You'll explore topics like different types of learning, how to analyze data with machine learning, and how it is used in real-world applications.",
       image: require("./assets/images/sungkyunkwanuniversity_logo.jpeg"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1Yj8Ua77d9_Y70Hk2LhmlcQ5fvz8ytWZr/view?usp=drive_link"
         },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
+        // {
+        //   name: "Award Letter",
+        //   url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+        // },
+        // {
+        //   name: "Google Code-in Blog",
+        //   url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+        // }
       ]
     },
     {
       title: "INTRODUCTION TO GENERATIVE ARTIFICIAL INTELLIGENCE",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        " know how AI can create new things like pictures, music, and text. I know the basic techniques that AI uses, such as neural networks, how these technologies work and where they can be used. I understand the basics of generative AI and able to make my own simple AI projects.",
       image: require("./assets/images/googlecloud_logo.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://drive.google.com/file/d/16vx04ISp5i6zuoFwWRv2SdOpPP7iJM8u/view?usp=sharing"
         },
+        // {
+        //   name: "Award Letter",
+        //   url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+        // },
+        // {
+        //   name: "Google Code-in Blog",
+        //   url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+        // }
+      ]
+    },
+    {
+      title: "Search Engine Optimization(SEO)",
+      subtitle:
+        "SEO, or Search Engine Optimization, means making your website better so more people can find it when they search online. It involves using the right words and techniques to appear higher in search engine results, like Google, Yahoo, or Bing. Good SEO helps websites get more visitors without paying for ads.",
+      image: require("./assets/images/coursera_logo.png"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [
         {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+          name: "Certification",
+          url: "https://drive.google.com/file/d/1OZXMiHyFzyCs9qzbefiUIXIm4JL9Q_zc/view?usp=sharing"
         },
+        // {
+        //   name: "Award Letter",
+        //   url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+        // },
+        // {
+        //   name: "Google Code-in Blog",
+        //   url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+        // }
+      ]
+    },
+    {
+      title: "Azure",
+      subtitle:
+        "Azure is Microsoft's cloud platform offering computing, storage, and services over the internet. It enables businesses to build, deploy, and manage applications globally. Azure supports diverse programming languages and tools, facilitating scalable and innovative solutions.",
+      image: require("./assets/images/microsoft_logo.png"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [
         {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
+          name: "Certification",
+          url: "https://drive.google.com/file/d/10Z-ii4hP5NPvjeea6-d4xg2TKHihqMWQ/view?usp=sharing"
+        },
+        // {
+        //   name: "Award Letter",
+        //   url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+        // },
+        // {
+        //   name: "Google Code-in Blog",
+        //   url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+        // }
+      ]
+    },
+    {
+      title: "Game Dev Workshop",
+      subtitle:
+        "The Microsoft Game Development Workshop teaches participants how to create video games using Microsoft tools. It covers game design, development frameworks like Unity or Unreal Engine, and deployment strategies. Participants gain practical skills in designing, developing, and publishing games with Microsoft's support.",
+      image: require("./assets/images/microsoft_logo.png"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://drive.google.com/file/d/10Z-ii4hP5NPvjeea6-d4xg2TKHihqMWQ/view?usp=sharing"
+        },
+        // {
+        //   name: "Award Letter",
+        //   url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+        // },
+        // {
+        //   name: "Google Code-in Blog",
+        //   url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+        // }
       ]
     },
     // {
@@ -624,7 +687,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -643,7 +706,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -657,7 +720,7 @@ const podcastSection = {
     // "https://anchor.fm/codevcast/embed/episodes/DevStory---Hasnain-Arshad-from-Islamabad--Pakistan-e9givv/a-a15itvo"
     "https://www.youtube.com/embed/F6rKyxQm7o8"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
@@ -665,7 +728,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+92-3115553587",
-  email_address: "hasnainarshad97@gmail.com"
+  email_address: "meetmrhasnain@gmail.com"
 };
 
 // Twitter Section
