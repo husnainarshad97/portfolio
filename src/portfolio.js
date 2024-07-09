@@ -23,7 +23,7 @@ const greeting = {
   username: "husnainarshad97",
   title: "Hey, I'm Hasnain",
   subTitle: emoji(
-    "A passionate Software Developer🚀 and Graphic Designer🚀 having an experience of building Web Applications and Graphic Designs"
+    "A passionate Software Developer🚀 and Graphic Designer🚀 having an experience of building Web Applications and numerous creative graphics designs"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1Y2FlaVHrUetz6bwNx78RqzhAP6TThj5A/view?usp=sharing", // Set to empty to hide the button
@@ -37,9 +37,9 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/hasnainarshad/",
   gmail: "husnainarshad97@gmail.com",
   // gitlab: "https://gitlab.com/husnainarshad97",
-  facebook: "https://www.facebook.com/husnainmairajarshad",
-  medium: "https://medium.com/@husnainarshad97",
-  stackoverflow: "https://stackoverflow.com/users/23037221/hasnain-arshad",
+  // facebook: "https://www.facebook.com/husnainmairajarshad",
+  // medium: "https://medium.com/@husnainarshad97",
+  // stackoverflow: "https://stackoverflow.com/users/23037221/hasnain-arshad",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -54,10 +54,13 @@ const skillsSection = {
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces and backend for your web applications"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Make 3D models"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Create attractive designs of Business cards, Flyers, Banners, posters and made animated videos"
     )
+    // emoji(
+    //   "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+    // )
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -69,63 +72,63 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "ReactJS",
       fontAwesomeClassname: "fab fa-react"
     },
-    {
-      skillName: "React Native",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "Angular",
-      fontAwesomeClassname: "fab fa-angular"
-    },
-    {
-      skillName: "Typescript",
-      fontAwesomeClassname: "fab fa-angular"
-    },
-    {
-      skillName: "Redux",
-      fontAwesomeClassname: "fab fa-frontend"
-    },
-    {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
-      skillName: "Bootstrap",
-      fontAwesomeClassname: "fab fa-bootstrap"
-    },
-    {
-      skillName: "Material UI",
-      fontAwesomeClassname: "fab fa-materialui"
-    },
-    {
-      skillName: "AntD",
-      fontAwesomeClassname: "fab fa-antd"
-    },
-    {
-      skillName: "Formik",
-      fontAwesomeClassname: "fab fa-formik"
-    },
+    // {
+    //   skillName: "React Native",
+    //   fontAwesomeClassname: "fab fa-react"
+    // },
+    // {
+    //   skillName: "Angular",
+    //   fontAwesomeClassname: "fab fa-angular"
+    // },
+    // {
+    //   skillName: "Typescript",
+    //   fontAwesomeClassname: "fab fa-angular"
+    // },
+    // {
+    //   skillName: "Redux",
+    //   fontAwesomeClassname: "fab fa-frontend"
+    // },
+    // {
+    //   skillName: "html-5",
+    //   fontAwesomeClassname: "fab fa-html5"
+    // },
+    // {
+    //   skillName: "css3",
+    //   fontAwesomeClassname: "fab fa-css3-alt"
+    // },
+    // {
+    //   skillName: "sass",
+    //   fontAwesomeClassname: "fab fa-sass"
+    // },
+    // {
+    //   skillName: "Bootstrap",
+    //   fontAwesomeClassname: "fab fa-bootstrap"
+    // },
+    // {
+    //   skillName: "Material UI",
+    //   fontAwesomeClassname: "fab fa-materialui"
+    // },
+    // {
+    //   skillName: "AntD",
+    //   fontAwesomeClassname: "fab fa-antd"
+    // },
+    // {
+    //   skillName: "Formik",
+    //   fontAwesomeClassname: "fab fa-formik"
+    // },
     ///////////////////////////////backend
-    {
-      skillName: "Express",
-      fontAwesomeClassname: "fab fa-e"
-    },
+    // {
+    //   skillName: "Express",
+    //   fontAwesomeClassname: "fab fa-e"
+    // },
     {
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fa fa-firebase"
-    },
+    // {
+    //   skillName: "firebase",
+    //   fontAwesomeClassname: "fa fa-firebase"
+    // },
 
     //  payment
     {
@@ -138,85 +141,107 @@ https://fontawesome.com/icons?d=gallery */
     },
 
     // Database
-    {
-      skillName: "mongoDB",
-      fontAwesomeClassname: "fa fa-database"
-    },
-    {
-      skillName: "SQL",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "PostgreSQL",
-      fontAwesomeClassname: "fas fa-database"
-    },
+    // {
+    //   skillName: "mongoDB",
+    //   fontAwesomeClassname: "fa fa-database"
+    // },
+    // {
+    //   skillName: "SQL",
+    //   fontAwesomeClassname: "fas fa-database"
+    // },
+    // {
+    //   skillName: "PostgreSQL",
+    //   fontAwesomeClassname: "fas fa-database"
+    // },
 
-    {
-      skillName: "Oracle",
-      fontAwesomeClassname: "fas fa-database"
-    },
+    // {
+    //   skillName: "Oracle",
+    //   fontAwesomeClassname: "fas fa-database"
+    // },
     // Languages
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "java",
-      fontAwesomeClassname: "fab fa-java"
-    },
-    {
-      skillName: "C++",
-      fontAwesomeClassname: "fab fa-cplusplus"
-    },
-    {
-      skillName: "c#",
-      fontAwesomeClassname: "fab fa-cuttlefish"
-    },
+    // {
+    //   skillName: "JavaScript",
+    //   fontAwesomeClassname: "fab fa-js"
+    // },
+    // {
+    //   skillName: "python",
+    //   fontAwesomeClassname: "fab fa-python"
+    // },
+    // {
+    //   skillName: "java",
+    //   fontAwesomeClassname: "fab fa-java"
+    // },
+    // {
+    //   skillName: "C++",
+    //   fontAwesomeClassname: "fab fa-cplusplus"
+    // },
+    // {
+    //   skillName: "c#",
+    //   fontAwesomeClassname: "fab fa-cuttlefish"
+    // },
     ////////other not realted
     {
-      skillName: "Scrapping",
-      fontAwesomeClassname: "fas fa-scrap"
+      skillName: "Web Scrapping",
+      fontAwesomeClassname: "fas fa-database"
     },
 
-    {
-      skillName: "Unity",
-      fontAwesomeClassname: "fab fa-unity"
-    },
-    {
-      skillName: "Photoshop",
-      fontAwesomeClassname: "fab fa-photoshop"
-    },
+    // {
+    //   skillName: "Unity",
+    //   fontAwesomeClassname: "fab fa-unity"
+    // },
+  
     ////////////////////hosting
 
-    {
-      skillName: "Cpanel",
-      fontAwesomeClassname: "fab fa-cpanel"
-    },
-    {
-      skillName: "digital ocean",
-      fontAwesomeClassname: "fab fa-digital-ocean"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
+    // {
+    //   skillName: "Cpanel",
+    //   fontAwesomeClassname: "fab fa-cpanel"
+    // },
+    // {
+    //   skillName: "digital ocean",
+    //   fontAwesomeClassname: "fab fa-digital-ocean"
+    // },
+    // {
+    //   skillName: "aws",
+    //   fontAwesomeClassname: "fab fa-aws"
+    // },
     // other useful supporting
-    {
-      skillName: "github",
-      fontAwesomeClassname: "fab fa-github"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
+    // {
+    //   skillName: "github",
+    //   fontAwesomeClassname: "fab fa-github"
+    // },
+    // {
+    //   skillName: "npm",
+    //   fontAwesomeClassname: "fab fa-npm"
+    // },
 
+    // {
+    //   skillName: "docker",
+    //   fontAwesomeClassname: "fab fa-docker"
+    // },
+    // Graphic designing
     {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      skillName: "Adobe Photoshop",
+      fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "Adobe Illustrator",
+      fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "Adobe Premiere Pro",
+      fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "CoralDRAW",
+      fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "Blender",
+      fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "Canva",
+      fontAwesomeClassname: "fas fa-database"
     },
     // learning
     // {
@@ -236,17 +261,17 @@ https://fontawesome.com/icons?d=gallery */
 const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
-    {
-      schoolName: "Illmenau University Germany",
-      logo: require("./assets/images/illmenau_logo.png"),
-      subHeader: "Master of Science in Artificial Intelligence and Data Science",
-      duration: "September 2024 - Present",
-      desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
-    },
+    // {
+    //   schoolName: "Illmenau University Germany",
+    //   logo: require("./assets/images/illmenau_logo.png"),
+    //   subHeader: "Master of Science in Artificial Intelligence and Data Science",
+    //   duration: "September 2024 - Present",
+    //   desc: "Participated in the research of XXX and published 3 papers.",
+    //   descBullets: [
+    //     "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    //     "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    //   ]
+    // },
     {
       schoolName: "Comsats University Islamabad",
       logo: require("./assets/images/COMSATS_logo.jpg"),
@@ -255,17 +280,17 @@ const educationInfo = {
       desc: "Ranked top 10% in the program. Took courses about Artificial Intelligence, Web Security, Operating Systems,... ",
       // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     },
-    {
-      schoolName: "Punjab University Lahore",
-      logo: require("./assets/images/pu_logo.png"),
-      subHeader: "Bachelor of Laws",
-      duration: "September 2021 - Present",
-      // desc: "Participated in the research of XXX and published 3 papers.",
-      // descBullets: [
-      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      // ]
-    },
+    // {
+    //   schoolName: "Punjab University Lahore",
+    //   logo: require("./assets/images/pu_logo.png"),
+    //   subHeader: "Bachelor of Laws",
+    //   duration: "September 2021 - Present",
+    //   // desc: "Participated in the research of XXX and published 3 papers.",
+    //   // descBullets: [
+    //   //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    //   //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    //   // ]
+    // },
   ]
 };
 
@@ -275,35 +300,39 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend development", //Insert stack or technology you have experience in
+      Stack: "Graphic Designing(Illustrator, Photoshop, CoralDRAW, Canva)",
+      progressPercentage: "100%"
+    },
+    {
+      Stack: "Website development(React JS/ Node JS / Wordpress)", //Insert stack or technology you have experience in
       progressPercentage: "100%" //Insert relative proficiency in percentage
     },
+    // {
+    //   Stack: "Frontend development(React JS)", //Insert stack or technology you have experience in
+    //   progressPercentage: "100%" //Insert relative proficiency in percentage
+    // },
+    // {
+    //   Stack: "Backend development(Node JS)",
+    //   progressPercentage: "85%"
+    // },
+    // {
+    //   Stack: "Programming",
+    //   progressPercentage: "100%"
+    // },
     {
-      Stack: "Backend development",
+      Stack: "Video Editing(Premiere Pro, Filmora, Canva)",
       progressPercentage: "85%"
     },
     {
-      Stack: "Programming",
-      progressPercentage: "100%"
-    },
-    {
-      Stack: "Graphic Designing",
-      progressPercentage: "100%"
-    },
-    {
-      Stack: "Video Editing",
-      progressPercentage: "85%"
-    },
-    {
-      Stack: "3D Modeling",
+      Stack: "3D Modeling(Blender)",
       progressPercentage: "70%"
     },
     {
-      Stack: "Animations",
+      Stack: "Animations(After Effect)",
       progressPercentage: "70%"
     },
     {
-      Stack: "Game Development",
+      Stack: "Game Development(Unity Engine)",
       progressPercentage: "75%"
     }
   ],
@@ -316,36 +345,36 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Senior Mern Stack Developer",
+      role: "Full Stack Developer and Graphic Designer",
       company: "Upwork",
       companylogo: require("./assets/images/upwork_logo.png"),
       date: "Dec 2021 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "I am currently self-employed, working as a freelance professional at Upwork."
     },
     {
-      role: "Mid Level Mern Stack Developer",
+      role: "Mid Level Full Stack Developer",
       company: "Sectem technologies",
       companylogo: require("./assets/images/sectem_logo.jpg"),
       date: "Dec 2021 – Dec 2023",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "I worked in sectem technologies, as a full stack developer, company affiliated with an American corporation."
     },
     {
       role: "Junior Mern Stack Developer",
       company: "Codebrakers Technologies",
       companylogo: require("./assets/images/codebreaker_logo.png"),
       date: "Feb 2021 – Dec 2021",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      desc: "After completing my degree I started working as a Full stack developer, who is responsible for making whole software(frontend, backend and database)",
+      // descBullets: [
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      // ]
     },
     {
       role: "Frontend developer and Graphic designer",
       company: "Fiverr",
       companylogo: require("./assets/images/fiver_logo.png"),
-      date: "Sept 2020 – Feb 2021",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "March 2018 – Present",
+      desc: "I started my freelancing career at fiverr with graphic designing. I do background removal, posters, image manipulation, business cards, Flyers"
     }
   ]
 };
@@ -361,7 +390,7 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
+  title: "Impressive Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
@@ -370,8 +399,8 @@ const bigProjects = {
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "See Video of Project",
+          url: "https://www.youtube.com/@hasnainarshad5217/videos"
         }
         //  you can add extra buttons here.
       ]
@@ -379,11 +408,11 @@ const bigProjects = {
     {
       image: require("./assets/images/seactempearls_logo.jpg"),
       projectName: "Sectem Pearls",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "It was a desktop application used to scrap data from diffrent websites",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Visit Companies FB Page",
+          url: "https://www.facebook.com/photo/?fbid=641010864705428&set=a.464003239072859&__cft__[0]=AZWDiC8I9CqhtlPC5diJVii6VPE0zQeFj5uhwpTc-IHCvhfy-2K1Emi9HtllETD6s0_xFBcNrUTpst6UYp6Wg5yg-aH6kCfG5fuzoXCvct41L8wyVAVDoxU8BXXIjWAc76VIUzKuklw8-ENBT_KcThAduZkzyqdhFdHNX6-vaQbucgcR5b2ItC9-39IvxGkZU2L1iPdwVgN5bGtZZfZTRR0ig9njZlD1X-WmJb1q3FAsNQ&__tn__=EH-y-R"
         }
         //  you can add extra buttons here.
       ]
@@ -391,57 +420,57 @@ const bigProjects = {
     {
       image: require("./assets/images/Reachinmail_logo.png"),
       projectName: "Reach In Mail",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "It was a software designed to prevent emails from being marked as spam, primarily used for marketing purposes.",
       footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://nextu.se/"
-        }
+        // {
+        //   name: "Visit Website",
+        //   url: "http://nextu.se/"
+        // }
       ]
     },
     {
       image: require("./assets/images/jaria_logo.png"),
       projectName: "Jaria",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "it was a website of charity company, based in USA to collect funds and raise compaigns.",
       footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://nextu.se/"
-        }
+        // {
+        //   name: "Visit Website",
+        //   url: "http://nextu.se/"
+        // }
       ]
     },
-    {
-      image: require("./assets/images/livesupportrep_logo.png"),
-      projectName: "Live Support Rep",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://nextu.se/"
-        }
-      ]
-    },
-    {
-      image: require("./assets/images/mobiles4u_logo.png"),
-      projectName: "Mobiles4U",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://nextu.se/"
-        }
-      ]
-    },
+    // {
+    //   image: require("./assets/images/livesupportrep_logo.png"),
+    //   projectName: "Live Support Rep",
+    //   projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    //   footerLink: [
+    //     {
+    //       name: "Visit Website",
+    //       url: "http://nextu.se/"
+    //     }
+    //   ]
+    // },
+    // {
+    //   image: require("./assets/images/mobiles4u_logo.png"),
+    //   projectName: "Mobiles4U",
+    //   projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    //   footerLink: [
+    //     {
+    //       name: "Visit Website",
+    //       url: "http://nextu.se/"
+    //     }
+    //   ]
+    // },
     {
       image: require("./assets/images/grofo_logo.png"),
       projectName: "Grofo",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://nextu.se/"
-        }
-      ]
+      projectDesc: "It was a mobile application used to order groceries online",
+      // footerLink: [
+      //   {
+      //     name: "Visit Website",
+      //     url: ""
+      //   }
+      // ]
     },
     {
       image: require("./assets/images/urpixpays_logo.png"),
@@ -450,7 +479,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "http://urpixpays.com/"
         }
       ]
     }
@@ -735,7 +764,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: "husnain_mairaj", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
 const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
