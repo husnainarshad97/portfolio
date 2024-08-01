@@ -353,11 +353,18 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Full Stack Developer and Graphic Designer",
+      role: "Full Stack Developer | Graphic Designer | Digital Marketer",
       company: "Upwork",
       companylogo: require("./assets/images/upwork_logo.png"),
       date: "Dec 2021 – Present",
       desc: "I am currently self-employed, working as a freelance professional at Upwork."
+    },
+    {
+      role: "Full Stack Developer | Graphic Designer | Digital Marketer",
+      company: "Fiverr",
+      companylogo: require("./assets/images/fiver_logo.png"),
+      date: "March 2018 – Present",
+      desc: "I started my freelancing career at fiverr with graphic designing. I do background removal, posters, image manipulation, business cards, Flyers. Now I created other gigs as well. Currently I am offering services for Graphic designing , Website developemnt and Digital marketing on Fiverr"
     },
     {
       role: "Mid Level Full Stack Developer",
@@ -365,13 +372,6 @@ const workExperiences = {
       companylogo: require("./assets/images/sectem_logo.jpg"),
       date: "Dec 2021 – Dec 2023",
       desc: "I worked in sectem technologies, as a full stack developer, company affiliated with an American corporation."
-    },
-    {
-      role: "Frontend developer and Graphic designer",
-      company: "Fiverr",
-      companylogo: require("./assets/images/fiver_logo.png"),
-      date: "March 2018 – Present",
-      desc: "I started my freelancing career at fiverr with graphic designing. I do background removal, posters, image manipulation, business cards, Flyers"
     },
     {
       role: "Junior Mern Stack Developer",
