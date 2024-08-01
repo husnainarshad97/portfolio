@@ -243,6 +243,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "Canva",
       fontAwesomeClassname: "fas fa-database"
     },
+    {
+      skillName: "Digital Marketing",
+      fontAwesomeClassname: "fas fa-database"
+    },
     // learning
     // {
     //   skillName: "swift",
@@ -304,6 +308,10 @@ const techStack = {
       progressPercentage: "100%"
     },
     {
+      Stack: "Digital marketing (Social Media Accounts handling, Email marketing, PPC, Facebook Ads))",
+      progressPercentage: "100%"
+    },
+    {
       Stack: "Website development(React JS/ Node JS / Wordpress)", //Insert stack or technology you have experience in
       progressPercentage: "100%" //Insert relative proficiency in percentage
     },
@@ -359,6 +367,13 @@ const workExperiences = {
       desc: "I worked in sectem technologies, as a full stack developer, company affiliated with an American corporation."
     },
     {
+      role: "Frontend developer and Graphic designer",
+      company: "Fiverr",
+      companylogo: require("./assets/images/fiver_logo.png"),
+      date: "March 2018 – Present",
+      desc: "I started my freelancing career at fiverr with graphic designing. I do background removal, posters, image manipulation, business cards, Flyers"
+    },
+    {
       role: "Junior Mern Stack Developer",
       company: "Codebrakers Technologies",
       companylogo: require("./assets/images/codebreaker_logo.png"),
@@ -369,13 +384,6 @@ const workExperiences = {
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       // ]
     },
-    {
-      role: "Frontend developer and Graphic designer",
-      company: "Fiverr",
-      companylogo: require("./assets/images/fiver_logo.png"),
-      date: "March 2018 – Present",
-      desc: "I started my freelancing career at fiverr with graphic designing. I do background removal, posters, image manipulation, business cards, Flyers"
-    }
   ]
 };
 
