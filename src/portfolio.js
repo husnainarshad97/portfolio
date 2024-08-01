@@ -364,7 +364,7 @@ const workExperiences = {
       company: "Fiverr",
       companylogo: require("./assets/images/fiver_logo.png"),
       date: "March 2018 – Present",
-      desc: "I started my freelancing career at fiverr with graphic designing. I do background removal, posters, image manipulation, business cards, Flyers. Now I created other gigs as well. Currently I am offering services for Graphic designing , Website developemnt and Digital marketing on Fiverr"
+      desc: "I started my freelancing career at fiverr with graphic designing. Currently I am offering services for Graphic designing, Website developemnt and Digital marketing on Fiverr"
     },
     {
       role: "Mid Level Full Stack Developer",
