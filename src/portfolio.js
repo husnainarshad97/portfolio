@@ -23,10 +23,10 @@ const greeting = {
   username: "husnainarshad97",
   title: "Hey, I'm Hasnain",
   subTitle: emoji(
-    "A passionate Software Developer🚀 and Graphic Designer🚀 having an experience of building Web Applications and numerous creative graphics designs"
+    "Experienced Digital Business Consultant specializing in Website Development🚀, Shopify stores🚀, Digital marketing🚀, Graphic design🚀, and Software development🚀, with a proven track record of driving business growth and brand visibility"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1Y2FlaVHrUetz6bwNx78RqzhAP6TThj5A/view?usp=sharing", // Set to empty to hide the button
+    "https://1drv.ms/b/c/7f24649c53aa33cf/ERRQZOkV0fBOhkin4TQ0A5EBvbliAUXooLQHKIoDNCNayg?e=5xKkc6", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -35,7 +35,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/husnainarshad97",
   linkedin: "https://www.linkedin.com/in/hasnainarshad/",
-  gmail: "husnainarshad97@gmail.com",
+  gmail: "meetmrhasnain@gmail.com",
   // gitlab: "https://gitlab.com/husnainarshad97",
   // facebook: "https://www.facebook.com/husnainmairajarshad",
   // medium: "https://medium.com/@husnainarshad97",
@@ -49,12 +49,12 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "A Crazy Digital Business Consultant Ready to Explore Every Tech Stack",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces and backend for your web applications"
+      "⚡ Dynamic digital business consultant delivering comprehensive solutions that drive company growth from inception to success."
     ),
-    emoji("⚡ Make 3D models"),
+    emoji("⚡ Expertise in website development, Shopify store creation, digital marketing, graphic design, and software development, dedicated to enhancing brand visibility and operational efficiency for clients."),
     emoji(
       "⚡ Create attractive designs of Business cards, Flyers, Banners, posters and made animated videos"
     )
@@ -182,14 +182,14 @@ https://fontawesome.com/icons?d=gallery */
     ////////other not realted
     {
       skillName: "Web Scrapping",
-      fontAwesomeClassname: "fas fa-database"
+      fontAwesomeClassname: "fa fa-chrome"
     },
 
     // {
     //   skillName: "Unity",
     //   fontAwesomeClassname: "fab fa-unity"
     // },
-  
+
     ////////////////////hosting
 
     // {
@@ -221,31 +221,60 @@ https://fontawesome.com/icons?d=gallery */
     // Graphic designing
     {
       skillName: "Adobe Photoshop",
-      fontAwesomeClassname: "fas fa-database"
+      fontAwesomeClassname: "fas fa-photo-video"
     },
     {
       skillName: "Adobe Illustrator",
-      fontAwesomeClassname: "fas fa-database"
+      fontAwesomeClassname: "fas fa-desktop"
     },
     {
       skillName: "Adobe Premiere Pro",
-      fontAwesomeClassname: "fas fa-database"
+      fontAwesomeClassname: "fa fa-edit"
     },
     {
       skillName: "CoralDRAW",
-      fontAwesomeClassname: "fas fa-database"
+      fontAwesomeClassname: "fas fa-draw-polygon"
     },
     {
       skillName: "Blender",
-      fontAwesomeClassname: "fas fa-database"
+      fontAwesomeClassname: "fas fa-blender"
     },
     {
       skillName: "Canva",
-      fontAwesomeClassname: "fas fa-database"
+      fontAwesomeClassname: "fa fa-viadeo"
     },
+    //Digital Marketing
     {
       skillName: "Digital Marketing",
-      fontAwesomeClassname: "fas fa-database"
+      fontAwesomeClassname: "fa fa-dragon"
+    },
+    {
+      skillName: "Page per Click (Facebook)",
+      fontAwesomeClassname: "fa fa-facebook-official"
+    },
+    {
+      skillName: "Page per Click (Instagram)",
+      fontAwesomeClassname: "fab fa-instagram"
+    },
+    {
+      skillName: "Page per Click (Google)",
+      fontAwesomeClassname: "fab fa-google"
+    },
+    {
+      skillName: "Page per Click (Amazon)",
+      fontAwesomeClassname: "fa fa-amazon"
+    },
+    {
+      skillName: "Search Engine Optimization",
+      fontAwesomeClassname: "fa fa-envira"
+    },
+    {
+      skillName: "Email Marketing",
+      fontAwesomeClassname: "fas fa-television"
+    },
+    {
+      skillName: "Shopify",
+      fontAwesomeClassname: "fas fa-shopping-bag"
     },
     // learning
     // {
@@ -304,11 +333,11 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Graphic Designing(Illustrator, Photoshop, CoralDRAW, Canva)",
+      Stack: "Digital marketing (Social Media Accounts handling, Email marketing, PPC, Facebook Ads))",
       progressPercentage: "100%"
     },
     {
-      Stack: "Digital marketing (Social Media Accounts handling, Email marketing, PPC, Facebook Ads))",
+      Stack: "Graphic Designing(Illustrator, Photoshop, CoralDRAW, Canva)",
       progressPercentage: "100%"
     },
     {
@@ -353,14 +382,14 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Full Stack Developer | Graphic Designer | Digital Marketer",
+      role: "Software Developer | Graphic Designer | Digital Marketer",
       company: "Upwork",
       companylogo: require("./assets/images/upwork_logo.png"),
       date: "Dec 2021 – Present",
       desc: "I am currently self-employed, working as a freelance professional at Upwork."
     },
     {
-      role: "Full Stack Developer | Graphic Designer | Digital Marketer",
+      role: "Software Developer | Graphic Designer | Digital Marketer",
       company: "Fiverr",
       companylogo: require("./assets/images/fiver_logo.png"),
       date: "March 2018 – Present",
@@ -402,9 +431,69 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH.",
   projects: [
     {
+      image: require("./assets/images/natural_herbs.png"),
+      projectName: "Natural Herbs Ltd.",
+      projectDesc: "I designed and developed the website for Natural Herbs Ltd., specializing in in selling Ashwagandha and Shilajit in UK. I implemented SEO strategies to boost visibility, created brand-aligned packaging, developed a Shopify store for e-commerce, and managed digital marketing campaigns to promote products effectively.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "naturabherbs.world"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/mk_online.png"),
+      projectName: "MK Online Trade LLC",
+      projectDesc: "I designed and developed the website for them, specializing in selling Electronics Accessories in USA. I implemented PPC Amazon to boost visibility, created brand-aligned packaging, and managed digital marketing campaigns to promote products effectively.",
+      footerLink: [
+        {
+          name: "Visit Amazon Store",
+          url: "https://www.amazon.com/s?me=AGJY3NU0L16XX&marketplaceID=ATVPDKIKX0DER"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/4m.jpg"),
+      projectName: "4M Ent. Real Estate",
+      projectDesc: "I designed and developed the website for them, specializing in in selling Homes in Pakistan in diffrent Socities. I implemented SEO strategies to boost visibility, created brand-aligned packaging, developed a Shopify store for e-commerce, and managed digital marketing campaigns to promote products effectively.",
+      footerLink: [
+        {
+          name: "Visit Facebook Page",
+          url: "https://www.facebook.com/4MOfficial"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/smartwarehouse.png"),
+      projectName: "Smart Warehouse Services",
+      projectDesc: "I designed and developed the website for them, they provide warehouse services in UK for E-Commerce sellers who operate outside the UK. Currently we are working on SEO strategies to boost visibility, and digital marketing campaigns.",
+      footerLink: [
+        {
+          name: "Visit Facebook Page",
+          url: "smartwarehouseservices.vercel.app"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/tradenest.png"),
+      projectName: "Trade Nest",
+      projectDesc: "I designing and developing the website for them.",
+      footerLink: [
+        {
+          name: "In Progress",
+          url: ""
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
       image: require("./assets/images/Thugofcomsats_logo.png"),
       projectName: "Thug of Comsats",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "It was my Final Year Project in University. Its a game inspired from GTA Series.",
       footerLink: [
         {
           name: "See Video of Project",
@@ -764,7 +853,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3115553587",
+  number: "+92-3247329406",
   email_address: "meetmrhasnain@gmail.com"
 };
 
