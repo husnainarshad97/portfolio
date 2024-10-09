@@ -485,7 +485,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Amazon Store",
-          url: "smartwarehouseservices.vercel.app"
+          url: "https://www.amazon.co.uk/sp?ie=UTF8&seller=A32VRE3VMSCH6O&asin=B0CVFDKK4L&ref_=dp_merchant_link&isAmazonFulfilled=1"
         }
         //  you can add extra buttons here.
       ]
