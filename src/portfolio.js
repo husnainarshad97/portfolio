@@ -396,7 +396,7 @@ const workExperiences = {
       desc: "I started my freelancing career at fiverr with graphic designing. Currently I am offering services for Graphic designing, Website developemnt and Digital marketing on Fiverr"
     },
     {
-      role: "Mid Level Full Stack Developer",
+      role: "Full Stack Developer",
       company: "Sectem technologies",
       companylogo: require("./assets/images/sectem_logo.jpg"),
       date: "Dec 2021 – Dec 2023",
