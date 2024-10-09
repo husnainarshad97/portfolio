@@ -472,7 +472,19 @@ const bigProjects = {
       projectDesc: "I designed and developed the website for them, they provide warehouse services in UK for E-Commerce sellers who operate outside the UK. Currently we are working on SEO strategies to boost visibility, and digital marketing campaigns.",
       footerLink: [
         {
-          name: "Visit Facebook Page",
+          name: "Visit Website",
+          url: "smartwarehouseservices.vercel.app"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/aljaleel.png"),
+      projectName: "Al-Jaleel",
+      projectDesc: "I designed and developed the website for them, they have Amazon Store and sell diffrent accessories. Currently we are working on digital marketing campaigns and PPC for them.",
+      footerLink: [
+        {
+          name: "Visit Amazon Store",
           url: "smartwarehouseservices.vercel.app"
         }
         //  you can add extra buttons here.
