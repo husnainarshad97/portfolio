@@ -20,8 +20,9 @@ const illustration = {
 };
 
 const greeting = {
-  username: "husnainarshad97",
-  title: "Hey, I'm Hasnain",
+  // username: "hasnainarshad97",
+  username: "Sundas Jabeen Fatima",
+  title: "Hey, I'm Sundas",
   subTitle: emoji(
     "Experienced Digital Business Consultant specializing in Website Development🚀, Shopify stores🚀, Digital marketing🚀, Graphic design🚀, and Software development🚀, with a proven track record of driving business growth and brand visibility"
   ),
@@ -33,9 +34,10 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/husnainarshad97",
-  linkedin: "https://www.linkedin.com/in/hasnainarshad/",
-  gmail: "meetmrhasnain@gmail.com",
+  // github: "https://github.com/husnainarshad97",
+  // linkedin: "https://www.linkedin.com/in/hasnainarshad/",
+  gmail: "Sundasjabeenfatima@gmail.com",
+  // gmail: "meetmrhasnain@gmail.com",
   // gitlab: "https://gitlab.com/husnainarshad97",
   // facebook: "https://www.facebook.com/husnainmairajarshad",
   // medium: "https://medium.com/@husnainarshad97",
@@ -502,18 +504,18 @@ const bigProjects = {
         //  you can add extra buttons here.
       ]
     },
-    {
-      image: require("./assets/images/Thugofcomsats_logo.png"),
-      projectName: "Thug of Comsats",
-      projectDesc: "It was my Final Year Project in University. Its a game inspired from GTA Series.",
-      footerLink: [
-        {
-          name: "See Video of Project",
-          url: "https://www.youtube.com/@hasnainarshad5217/videos"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
+    // {
+    //   image: require("./assets/images/Thugofcomsats_logo.png"),
+    //   projectName: "Thug of Comsats",
+    //   projectDesc: "It was my Final Year Project in University. Its a game inspired from GTA Series.",
+    //   footerLink: [
+    //     {
+    //       name: "See Video of Project",
+    //       url: "https://www.youtube.com/@hasnainarshad5217/videos"
+    //     }
+    //     //  you can add extra buttons here.
+    //   ]
+    // },
     {
       image: require("./assets/images/seactempearls_logo.jpg"),
       projectName: "Sectem Pearls",
@@ -818,12 +820,12 @@ const blogSection = {
       description:
         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
     },
-    {
-      url: "https://medium.com/@hasnain/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
-    }
+    // {
+    //   url: "https://medium.com/@hasnain/why-react-is-the-best-5a97563f423e",
+    //   title: "Why REACT is The Best?",
+    //   description:
+    //     "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+    // }
   ],
   display: false // Set false to hide this section, defaults to true
 };
@@ -855,7 +857,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    // "https://anchor.fm/codevcast/embed/episodes/DevStory---Hasnain-Arshad-from-Islamabad--Pakistan-e9givv/a-a15itvo"
+    // "https://anchor.fm/codevcast/embed/episodes/DevStory---sundas-Arshad-from-Islamabad--Pakistan-e9givv/a-a15itvo"
     "https://www.youtube.com/embed/F6rKyxQm7o8"
   ],
   display: false // Set false to hide this section, defaults to true
@@ -865,8 +867,9 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3247329406",
-  email_address: "meetmrhasnain@gmail.com"
+  number: "+92-3092096018",
+  // email_address: "meetmrhasnain@gmail.com"
+  email_address: "sundasjabeenfatima@gmail.com"
 };
 
 // Twitter Section
